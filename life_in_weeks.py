@@ -7,5 +7,3 @@ days = round(years * 365)
 
 print(f"You have {days} days, {weeks} weeks, and {months} months left.")
 
-#end
-# --------------
